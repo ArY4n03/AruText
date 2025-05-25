@@ -14,5 +14,5 @@ AruText is a no-code tool that lets you create interactive, text-based story gam
 
 📦 Export to Standalone Game (.exe) – Share your game with others
 
-## Dowload
+## Download exe File
 https://arutext.netlify.app/
