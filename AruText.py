@@ -6,7 +6,7 @@ from tkinter import messagebox as msg
 import Resources.engine_utils as eu
 import Resources.utils as ut
 
-class YourTale:
+class Main:
     
     def __init__(self,master):
         self.master = master
@@ -277,7 +277,7 @@ class YourTale:
 
     def OtherTabContent(self,info):
         if info == "About":
-            msg.showinfo(title="About",message="YourTale \ncreated by Aryan Soy")
+            msg.showinfo(title="About",message="AruText \ncreated by Aryan Soy")
         else:
             msg.showinfo(title="Version",message="Version 1.0")
 
@@ -285,5 +285,5 @@ class YourTale:
 
 if __name__ == "__main__":
     window = ctk.CTk()
-    main = YourTale(window)
+    main = Main(window)
     window.mainloop()
