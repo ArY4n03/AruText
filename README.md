@@ -1,7 +1,7 @@
-#🎮 AruText – No-Code GUI Text-Based Story Game Creator
+##🎮 AruText – No-Code GUI Text-Based Story Game Creator
 AruText is a no-code tool that lets you create interactive, text-based story games with a simple and intuitive graphical interface — no programming knowledge required! Whether you're a writer, storyteller, or just someone with a vivid imagination, Your Tale makes it easy to bring your narrative adventures to life.
 
-#✨ Features
+##✨ Features
 🖱️ No Code Required – Create games entirely through a GUI
 
 📄 Scene-Based Editing – Add and manage story scenes with ease
